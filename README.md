@@ -1,22 +1,65 @@
-# 👋 Hi, I'm Anand BS  
+# 🏆 Anand Sitaram – Test Automation & QA Specialist  
 
-🚀 **Automation Enthusiast | Test Automation Expert | Lifelong QA Professional** 
-
-🔹 Passionate about **software testing, automation, and QA innovations**.  
-🔹 Specialized in **Selenium | Playwright | Appium | Rest Assured | CI/CD**, ensuring scalable and efficient test automation.  
-🔹 Dedicated to building **robust, maintainable, and future-ready automation frameworks** to enhance software quality.
-
-
-## 🔗 My GitHub Repositories  
-- [Master Web API Framework](https://github.com/anandsitaram/MasterWebApiFramework)  
-- [Playwright TS Framework](https://github.com/anandsitaram/PlaywrightTSFramework)  
-- **Playwright BDD [Coming Soon]**  
-
-💡 Constantly exploring new technologies and best practices in test automation.  
-
-📫 **Connect with me:**  
-✉️ [Email Me](mailto:anandbs291@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/anandsitaram)  
+🚀 Passionate about **Software Testing, Automation, and Quality Engineering**.  
+I specialize in **Playwright, Selenium, API Testing, and CI/CD** for scalable test automation.  
 
 ---
 
-✍️ *Driven by innovation, powered by automation!* 🚀  
+## 📌 Featured Projects  
+
+### 🔹 [Playwright BDD Framework](https://github.com/anandsitaram/PlaywrightBDDFramework)  
+🛠️ **Tech Stack**: ![Playwright](https://img.shields.io/badge/Playwright-0078D7?style=flat&logo=playwright&logoColor=white)  
+📌 **Description**: A **Behavior-Driven Development (BDD)** automation framework for UI testing using Playwright.  
+🔗 **Key Features**:  
+✔️ Modular Page Object Model (POM)  
+✔️ Gherkin Syntax for Test Scenarios  
+✔️ CI/CD Integration  
+
+---
+
+### 🔹 [Playwright TS Framework](https://github.com/anandsitaram/PlaywrightTSFramework)  
+🛠️ **Tech Stack**: ![Playwright](https://img.shields.io/badge/Playwright-0078D7?style=flat&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+📌 **Description**: A **scalable web automation framework** built with Playwright and TypeScript.  
+🔗 **Key Features**:  
+✔️ Supports multiple browsers (Chromium, Firefox, WebKit)  
+✔️ Screenshot & Video Capturing  
+✔️ Custom Test Reporting  
+
+---
+
+### 🔹 [Playwright JS Framework](https://github.com/anandsitaram/PlaywrightJSFramework)  
+🛠️ **Tech Stack**: ![Playwright](https://img.shields.io/badge/Playwright-0078D7?style=flat&logo=playwright&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+📌 **Description**: A **scalable web automation framework** built with Playwright and JavaScript.  
+🔗 **Key Features**:  
+✔️ Supports multiple browsers (Chromium, Firefox, WebKit)  
+✔️ Screenshot & Video Capturing  
+✔️ Custom Test Reporting  
+
+---
+
+### 🔹 [Master Web API Framework](https://github.com/anandsitaram/MasterWebApiFramework)  
+🛠️ **Tech Stack**: ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![RestAssured](https://img.shields.io/badge/RestAssured-4CAF50?style=flat)  
+📌 **Description**: A **robust API and UI automation framework** designed for end-to-end testing.  
+🔗 **Key Features**:  
+✔️ REST API Testing with RestAssured  
+✔️ UI Automation with Selenium  
+✔️ Advanced HTML Reports with Extent Reports  
+
+---
+
+## 🛠️ Skills & Expertise  
+🔹 **Automation Tools**: Playwright, Selenium, Appium, RestAssured  
+🔹 **Programming Languages**: Java, TypeScript, JavaScript  
+🔹 **CI/CD & DevOps**: GitHub Actions, Jenkins, GitLab  
+🔹 **Testing Methodologies**: BDD, TDD, Shift-Left Testing  
+🔹 **Other**: Uipath, Service Virtualization (Mountebank, DevTest, IBM MQ)  
+
+---
+
+## 📬 Connect with Me  
+💼 **GitHub**: [anandsitaram](https://github.com/anandsitaram)  
+🔗 **LinkedIn**: [Your LinkedIn Profile](#)  
+
+---
+
+🚀 **Let's build reliable and scalable test automation together!**  
