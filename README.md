@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anand BS  
 
-🚀 **Automation Architect | Test Automation Expert | QA Strategist**  
+🚀 **Automation Enthusiast | Test Automation Expert | QA Strategist** 
 
 🔹 Passionate about **software testing, automation, and QA innovations**.  
 🔹 Specialized in **Selenium | Playwright | Appium | Rest Assured | CI/CD**, ensuring scalable and efficient test automation.  
