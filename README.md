@@ -1,7 +1,7 @@
-# 🏆 Anand Sitaram – Test Automation & QA Specialist  
+# 🏆 Anand BS – Test Automation & QA Specialist  
 
 🚀 Passionate about **Software Testing, Automation, and Quality Engineering**.  
-I specialize in **Playwright, Selenium, API Testing, and CI/CD** for scalable test automation.  
+Expert in crafting robust automation frameworks with Selenium, Playwright, Appium, and RestAssured
 
 ---
 
