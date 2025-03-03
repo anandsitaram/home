@@ -55,7 +55,8 @@ Building robust test automation frameworks with Playwright, Selenium, Appium & R
 🔹 **Automation Tools**: Playwright, Selenium, Appium, RestAssured  
 🔹 **Programming Languages**: Java, TypeScript, JavaScript  
 🔹 **CI/CD & DevOps**: GitHub Actions, Jenkins, GitLab  
-🔹 **Testing Methodologies**: BDD, TDD, Shift-Left Testing  
+🔹 **Testing Methodologies**: BDD, TDD, Shift-Left Testing
+🔹 **AI & Productivity**: GitHub Copilot
 🔹 **Other**: Uipath, Service Virtualization (Mountebank, DevTest, IBM MQ)  
 
 ---
