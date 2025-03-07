@@ -63,7 +63,8 @@ Building robust test automation frameworks with Playwright, Selenium, Appium & R
 
 ## 📬 Connect with Me  
 💼 **GitHub**: [anandsitaram](https://github.com/anandsitaram)  
-🔗 **LinkedIn**: [Your LinkedIn Profile](#)  
+🔗 **LinkedIn**: [Anand B S](www.linkedin.com/in/anand-bs)
+
 
 ---
 
