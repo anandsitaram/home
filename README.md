@@ -28,6 +28,12 @@ I work primarily with **Playwright, Selenium, Appium, RestAssured, Java, TypeScr
 
 ---
 
+## 🎓 Certifications
+
+* ☁️ **Google Cloud Certified — Generative AI Leader**
+
+
+
 # 🌟 Featured Projects
 
 ## 💰 Vitta Marga — Personal Finance & EMI Decision Support
