@@ -36,6 +36,8 @@ I work primarily with **Playwright, Selenium, Appium, RestAssured, Java, TypeScr
 
 # 🌟 Featured Projects
 
+*The following are personal hobby projects, built and maintained outside of work to explore product development, modern web tooling, and applying quality engineering principles end-to-end.*
+
 ## 💰 Vitta Marga — Personal Finance & EMI Decision Support
 
 ### 🚀 Live Application
@@ -68,6 +70,45 @@ I work primarily with **Playwright, Selenium, Appium, RestAssured, Java, TypeScr
 **Why this project?**
 
 > Turning complicated financial calculations into simple, understandable decisions for everyday users.
+
+---
+
+## 💸 Daily Expense Tracker — Private, Cross-Platform Expense & Budget Tracking
+
+### 🚀 Live Application
+
+👉 **https://my-daily-expense-tracker.vercel.app/**
+
+### 📂 Source Code
+
+👉 **https://github.com/anandsitaram/dailyExpenseTracker**
+
+**Daily Expense Tracker** is a fast, backend-free expense and budget tracker for web and mobile, built to answer one question every day: *where is my money going, and what can I do about it — today, not just at month-end?* Every entry is logged in a few taps and stays encrypted on the user's own device — no account, no sign-up, no server.
+
+### ✨ Key Features
+
+* 🧾 Fast expense logging — amount, category, payment method, date, and optional note, with edit/delete and calendar-based entry
+* 📊 At-a-glance dashboard — monthly expenses, remaining balance, income, top category, and an interactive spending calendar
+* 🎯 Budgeting — overall and per-category budgets, recurring expenses (rent, EMIs, subscriptions) that log themselves, progress bar with an 80% overspend warning
+* 📈 Spending insights — category-wise breakdown chart, daily spending trend, month-over-month income vs. expense comparison
+* 🗂️ Customizable categories with icons, plus income tracking alongside expenses
+* 👤 Personalized profile — nickname, avatar/photo, light & dark appearance on web
+* 📤 Export & backup — Excel/CSV export, password-encrypted full-data backup and restore
+* 🔒 Security & privacy — optional PIN / Face ID / fingerprint app lock, auto-relock, on-device encryption (Keychain/Keystore on mobile, non-extractable browser key on web), zero server-side data
+* 📱 One shared codebase powering the web app and native Android/iOS apps
+
+### 🛠️ Technology
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat\&logo=vitest\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat\&logo=playwright\&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+
+**Why this project?**
+
+> Removing the friction of daily expense tracking so small money decisions can happen every day, not just when the credit card bill arrives — while keeping every entry fully private on the user's own device.
 
 ---
 
@@ -299,7 +340,7 @@ Deployment
 Continuous Improvement
 ```
 
-Projects such as **Vitta Marga** and **Pustakalaya** demonstrate my interest beyond testing — building usable software products and applying quality engineering throughout the development lifecycle.
+Projects such as **Vitta Marga**, **Daily Expense Tracker**, and **Pustakalaya** demonstrate my interest beyond testing — building usable software products and applying quality engineering throughout the development lifecycle.
 
 ---
 
@@ -354,10 +395,13 @@ https://www.linkedin.com/in/anand-bs/
 
 ## ⭐ Featured Applications
 
-| Project            | Description                             | Live Demo                                           |
-| ------------------ | --------------------------------------- | --------------------------------------------------- |
-| 💰 **Vitta Marga** | Personal finance & EMI decision support | [Open App](https://vitta-marga.vercel.app/)         |
-| 📚 **Pustakalaya** | Digital library application             | [Open App](https://pustakalaya-library.vercel.app/) |
+*Personal hobby projects, built and maintained outside of work.*
+
+| Project                    | Description                              | Live Demo                                                   |
+| --------------------------- | ----------------------------------------- | ------------------------------------------------------------ |
+| 💰 **Vitta Marga**          | Personal finance & EMI decision support   | [Open App](https://vitta-marga.vercel.app/)                  |
+| 💸 **Daily Expense Tracker**| Private, cross-platform expense & budget tracker | [Open App](https://my-daily-expense-tracker.vercel.app/) |
+| 📚 **Pustakalaya**          | Digital library application               | [Open App](https://pustakalaya-library.vercel.app/)          |
 
 ---
 
