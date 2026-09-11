@@ -42,9 +42,6 @@ I work primarily with **Playwright, Selenium, Appium, RestAssured, Java, TypeScr
 
 👉 **https://vitta-marga.vercel.app/**
 
-### 📂 Source Code
-
-👉 **https://github.com/anandsitaram/vitta-marga**
 
 **Vitta Marga** is a modern personal-finance application designed to help users understand loans, EMIs, prepayments and interest-saving decisions.
 
