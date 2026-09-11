@@ -42,7 +42,7 @@ I work primarily with **Playwright, Selenium, Appium, RestAssured, Java, TypeScr
 
 ### 🚀 Live Application
 
-👉 **https://vitta-marga.vercel.app/**
+👉 [vitta-marga.vercel.app](https://vitta-marga.vercel.app/)
 
 
 **Vitta Marga** is a modern personal-finance application designed to help users understand loans, EMIs, prepayments and interest-saving decisions.
@@ -77,11 +77,11 @@ I work primarily with **Playwright, Selenium, Appium, RestAssured, Java, TypeScr
 
 ### 🚀 Live Application
 
-👉 **https://my-daily-expense-tracker.vercel.app/**
+👉 [my-daily-expense-tracker.vercel.app](https://my-daily-expense-tracker.vercel.app/)
 
 ### 📂 Source Code
 
-👉 **https://github.com/anandsitaram/dailyExpenseTracker**
+👉 [github.com/anandsitaram/dailyExpenseTracker](https://github.com/anandsitaram/dailyExpenseTracker)
 
 **Daily Expense Tracker** is a fast, backend-free expense and budget tracker for web and mobile, built to answer one question every day: *where is my money going, and what can I do about it — today, not just at month-end?* Every entry is logged in a few taps and stays encrypted on the user's own device — no account, no sign-up, no server.
 
@@ -116,11 +116,11 @@ I work primarily with **Playwright, Selenium, Appium, RestAssured, Java, TypeScr
 
 ### 🚀 Live Application
 
-👉 **https://pustakalaya-library.vercel.app/**
+👉 [pustakalaya-library.vercel.app](https://pustakalaya-library.vercel.app/)
 
 ### 📂 Source Code
 
-👉 **https://github.com/anandsitaram/pustakalaya**
+👉 [github.com/anandsitaram/pustakalaya](https://github.com/anandsitaram/pustakalaya)
 
 **Pustakalaya** is a modern library application designed to provide a simple digital experience for discovering and managing books.
 
@@ -154,7 +154,7 @@ I work primarily with **Playwright, Selenium, Appium, RestAssured, Java, TypeScr
 
 ### 📂 Repository
 
-👉 **https://github.com/anandsitaram/PlaywrightBDDFramework**
+👉 [github.com/anandsitaram/PlaywrightBDDFramework](https://github.com/anandsitaram/PlaywrightBDDFramework)
 
 A scalable **Behavior-Driven Development automation framework** using Playwright and Gherkin.
 
@@ -179,7 +179,7 @@ A scalable **Behavior-Driven Development automation framework** using Playwright
 
 ### 📂 Repository
 
-👉 **https://github.com/anandsitaram/PlaywrightTSFramework**
+👉 [github.com/anandsitaram/PlaywrightTSFramework](https://github.com/anandsitaram/PlaywrightTSFramework)
 
 A scalable Playwright automation framework designed for modern web application testing.
 
@@ -204,7 +204,7 @@ A scalable Playwright automation framework designed for modern web application t
 
 ### 📂 Repository
 
-👉 **https://github.com/anandsitaram/PlaywrightJSFramework**
+👉 [github.com/anandsitaram/PlaywrightJSFramework](https://github.com/anandsitaram/PlaywrightJSFramework)
 
 A JavaScript-based Playwright framework for scalable web automation.
 
@@ -227,7 +227,7 @@ A JavaScript-based Playwright framework for scalable web automation.
 
 ### 📂 Repository
 
-👉 **https://github.com/anandsitaram/MasterWebApiFramework**
+👉 [github.com/anandsitaram/MasterWebApiFramework](https://github.com/anandsitaram/MasterWebApiFramework)
 
 A robust automation framework for **REST API and UI testing** using Java.
 
